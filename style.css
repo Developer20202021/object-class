@@ -1,0 +1,25 @@
+input{
+    width: 200px;
+    height: 30px;
+    margin-bottom: 40px;
+}
+input::placeholder{
+    font-size: 18px;
+    font-weight: 600;
+}
+input{
+    font-size: 18px;
+}
+input[type ='button']{
+    font-weight: 700;
+    color: whitesmoke;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 25px;
+    background-color: rgb(71, 75, 73);
+}
+
+
+canvas {
+    border: 1px solid ;
+}
